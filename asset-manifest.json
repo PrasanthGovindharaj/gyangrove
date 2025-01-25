@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gynagrove/static/css/main.cb728c00.css",
-    "main.js": "/gynagrove/static/js/main.910d6fd0.js",
-    "static/js/453.f12c30f9.chunk.js": "/gynagrove/static/js/453.f12c30f9.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/gynagrove/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/gynagrove/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/gynagrove/index.html",
-    "main.cb728c00.css.map": "/gynagrove/static/css/main.cb728c00.css.map",
-    "main.910d6fd0.js.map": "/gynagrove/static/js/main.910d6fd0.js.map",
-    "453.f12c30f9.chunk.js.map": "/gynagrove/static/js/453.f12c30f9.chunk.js.map"
+    "main.css": "/gyangrove/static/css/main.209dd2d1.css",
+    "main.js": "/gyangrove/static/js/main.117ee35f.js",
+    "static/js/453.f12c30f9.chunk.js": "/gyangrove/static/js/453.f12c30f9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/gyangrove/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/gyangrove/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/gyangrove/index.html",
+    "main.209dd2d1.css.map": "/gyangrove/static/css/main.209dd2d1.css.map",
+    "main.117ee35f.js.map": "/gyangrove/static/js/main.117ee35f.js.map",
+    "453.f12c30f9.chunk.js.map": "/gyangrove/static/js/453.f12c30f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb728c00.css",
-    "static/js/main.910d6fd0.js"
+    "static/css/main.209dd2d1.css",
+    "static/js/main.117ee35f.js"
   ]
 }
