@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gynagrove1/static/css/main.212803c6.css",
-    "main.js": "/gynagrove1/static/js/main.0236ea40.js",
-    "static/js/453.f12c30f9.chunk.js": "/gynagrove1/static/js/453.f12c30f9.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/gynagrove1/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/gynagrove1/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/gynagrove1/index.html",
-    "main.212803c6.css.map": "/gynagrove1/static/css/main.212803c6.css.map",
-    "main.0236ea40.js.map": "/gynagrove1/static/js/main.0236ea40.js.map",
-    "453.f12c30f9.chunk.js.map": "/gynagrove1/static/js/453.f12c30f9.chunk.js.map"
+    "main.css": "/gynagrove/static/css/main.cb728c00.css",
+    "main.js": "/gynagrove/static/js/main.910d6fd0.js",
+    "static/js/453.f12c30f9.chunk.js": "/gynagrove/static/js/453.f12c30f9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/gynagrove/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/gynagrove/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/gynagrove/index.html",
+    "main.cb728c00.css.map": "/gynagrove/static/css/main.cb728c00.css.map",
+    "main.910d6fd0.js.map": "/gynagrove/static/js/main.910d6fd0.js.map",
+    "453.f12c30f9.chunk.js.map": "/gynagrove/static/js/453.f12c30f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.212803c6.css",
-    "static/js/main.0236ea40.js"
+    "static/css/main.cb728c00.css",
+    "static/js/main.910d6fd0.js"
   ]
 }
